@@ -1,6 +1,6 @@
 # Time Series Forecasting using LSTM (PyTorch)
 
-## 🚀 Features
+## Features
 
 * ✔ Data Cleaning (duplicate check, sorting by date)
 * ✔ Date conversion to datetime format
